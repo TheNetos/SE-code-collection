@@ -14,6 +14,8 @@
 * string;
 * Vector3.
 
+Ссылка в мастерской Steam: [TN-code-collection Serializator](https://steamcommunity.com/sharedfiles/filedetails/?id=2020520319).
+
 ## Описание
 
 ### `TN.SerializeStream`
