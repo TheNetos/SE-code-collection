@@ -1,5 +1,7 @@
 # SE code collection - Serializer
 
+![Serializer logo](/docs/img/serializer_logo_doc.png)
+
 Набор классов и интерфейсов для выполнения сериализации/десериализации объектов.
 
 Поддерживаются следующие типы данных:
