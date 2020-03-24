@@ -18,7 +18,7 @@ public partial class TN
         public abstract SerializeStream GetFloat(out float outValue);
         public abstract SerializeStream SetFloat(float inValue);
         public abstract SerializeStream GetDouble(out double outValue);
-        public abstract SerializeStream SetFloat(double inValue);
+        public abstract SerializeStream SetDouble(double inValue);
         public abstract SerializeStream GetString(out string outValue);
         public abstract SerializeStream SetString(string inValue);
         public abstract SerializeStream GetVector3(out Vector3 outValue);
