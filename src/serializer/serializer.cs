@@ -135,7 +135,7 @@ public partial class TN
             Offset += sizeof(double);
             return this;
         }
-        public override SerializeStream SetFloat(double inValue)
+        public override SerializeStream SetDouble(double inValue)
         {
             Bytes.AddRange(BitConverter.GetBytes(inValue));
             return this;
